@@ -1,13 +1,13 @@
 def nyc_pigeon_organizer(data)
   updated_pigeon_hash = {}
   updated_pigeon_hash = {
-    :"Alex" => {},
-    :"Theo" => {},
+    :Theo => {},
     :"Peter Jr." => {},
-    :"Andrew" => {},
     :"Lucky" => {},
+    :"Ms. K" => {},
     :"Queenie" => {},
-    :"Ms. K" => {}
+    :"Andrew" => {},
+    :"Alex" => {}
   }
  
 end
